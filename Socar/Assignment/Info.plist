@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>주변의 공유차량 정보를 확인하기 위해서는 위치 정보가 필요합니다. 수집된 위치 정보는 공유차량 조회 및 나의 위치 확인에 사용됩니다.</string>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>주변의 공유차량 정보를 확인하기 위해서는 위치 정보가 필요합니다. 수집된 위치 정보는 공유차량 조회 및 나의 위치 확인에 사용됩니다.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>주변의 공유차량 정보를 확인하기 위해서는 위치 정보가 필요합니다. 수집된 위치 정보는 공유차량 조회 및 나의 위치 확인에 사용됩니다.</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
